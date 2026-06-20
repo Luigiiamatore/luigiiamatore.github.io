@@ -10,5 +10,4 @@ MSc in Computer Science from Università degli Studi di Milano | Backend Softwar
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/luigiamatore)\
-[GitHub](https://github.com/luigiiamatore)
+[LinkedIn](https://www.linkedin.com/in/luigiamatore) [GitHub](https://github.com/luigiiamatore)
